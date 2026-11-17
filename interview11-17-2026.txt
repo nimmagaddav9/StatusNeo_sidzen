@@ -1,1 +1,52 @@
+REACT DEVELOPER INTERVIEW — QUESTION AND ANSWER SUMMARY
+November 17, 2026 | StatusNeo | Vijay Nimmagadda
+
+This summary reflects the interviewer's questions and the candidate's spoken answers. Repeated follow-ups are combined.
+
+1. Where are you based, and had the role location been discussed?
+   I’m based in Austin, Texas. I spoke with Arvind, the vendor contact, about setting up the interview. The role location was not explicitly confirmed in the spoken response.
+
+2. Can you introduce yourself and describe your recent work?
+   I’m a full-stack engineer at First Citizens Bank. I use React and TypeScript on the front end and Java on the back end. I build portals for customers and back-office users. I previously supported enrollment, user management, and reporting, and I’m currently working on cryptocurrency purchase functionality. At United Airlines, I helped migrate a .NET application to React, built a feature that lets members pool miles, led UI developers, and coordinated development and staging releases.
+
+3. How much professional experience do you have?
+   More than 13 years.
+
+4. What is your current visa status, and does your vendor handle it?
+   I’m on H-1B status and confirmed that my vendor handles it.
+
+5. Have you worked in an onshore–offshore delivery model?
+   Yes. At Capital Group and Visa, I worked with teams based in the United States and India.
+
+6. How do you handle security in banking applications?
+   I build security into the design through role-based access, least-privilege permissions, protected APIs, input validation, and controls on sensitive data exposure. At First Citizens Bank, I worked on multifactor authentication and mobile verification.
+
+7. What vulnerability scans do you run, and have you used SonarQube?
+   I run dependency scans and static analysis in CI/CD. I use SonarQube to review vulnerabilities, bugs, and code quality issues. I prioritize critical findings and rerun checks before release. I also test authentication, authorization, input handling, and API behavior.
+
+8. What is the virtual DOM?
+   I described it as a lightweight JavaScript representation of the UI. React compares the previous and next representations and updates the parts of the browser DOM that need to change. I also claimed a tenfold speed advantage over Angular and gave no benchmark during the interview.
+
+9. How would you keep a React application with more than 100 independent modules fast?
+   I would measure performance first, then split modules and load them on demand. I’d keep state within appropriate boundaries, use useMemo, useCallback, or React.memo where useful, and virtualize long lists. I’d track bundle size, render time, and API performance.
+
+10. What is the difference between equals() and hashCode() in Java?
+    equals() checks whether objects are logically equal. hashCode() returns an integer used by hash-based collections. Equal objects must have the same hash code. Different objects can share a hash code.
+
+11. What back-end technologies have you used, and have you worked with Python?
+    I’ve used Java and Node.js for REST API integrations. I used Python earlier in my career. The interviewer also asked about the database, and the answer focused on back-end services without naming a database product.
+
+12. What is the difference between Spring MVC and Spring WebFlux?
+    I described Spring MVC as using a traditional blocking model with a thread handling each request. WebFlux uses a reactive, nonblocking model that can handle many concurrent I/O-bound requests with fewer threads. I would choose WebFlux when the full request path supports reactive operations.
+
+13. What is the difference between a LEFT OUTER JOIN and a RIGHT OUTER JOIN?
+    A LEFT OUTER JOIN keeps every row from the left table. A RIGHT OUTER JOIN keeps every row from the right table. When no row matches, the other table’s columns contain NULL.
+
+14. How can indexes hurt database performance?
+    Indexes take up storage and add maintenance work to inserts, updates, and deletes. This can slow writes. Too many or unused indexes add overhead and can complicate query planning.
+
+15. Have you used multithreading in your projects?
+    Yes. My recent work has mainly involved asynchronous API calls in React to keep the UI responsive. For independent blocking tasks on the Java back end, I would use a thread pool and avoid shared mutable state.
+
+The interviewer said the feedback would be passed along and someone would follow up.
 
