@@ -1,0 +1,51 @@
+INTERVIEW CONVERSATION SUMMARY
+React Developer / Front-End UI Engineer - StatusNeo / PIMCO
+Transcript date: November 19, 2026
+Main conversation: Approximately 1:00-1:10 PM
+
+OVERVIEW
+The main call focused on the PIMCO project, work arrangements, and onboarding rather than a technical or behavioral assessment. 
+The team discussed Vijay joining the Austin-based delivery team and attending client induction on Monday. The transcript does not include a formal written offer or employment terms.
+
+PROJECT AND ROLE
+- StatusNeo is delivering a headless CRM for PIMCO, retaining Microsoft Dynamics 365 as the core system and adding an API layer plus web and mobile interfaces.
+- The customer uses Microsoft Azure and other Microsoft technologies.
+- Vijay described himself as a front-end UI engineer with API integration experience. He will work with Harry as one of two front-end developers; a separate developer will handle iOS.
+- The solution architecture and mock screens are already available, so development is expected to begin promptly.
+- The planned team includes four people in Austin, four in India, and a delivery leader. Vijay is expected to be the fourth Austin team member.
+- Key working stakeholders are in Austin; the overall program head is based in Orange County.
+
+LOCATION AND OFFICE EXPECTATIONS
+- The role requires at least four days per week in the PIMCO office.
+- Vijay confirmed that he lives in North Austin, approximately 30-40 minutes from the downtown office by car.
+- Being physically local to Austin was an important requirement for the team.
+
+ONBOARDING AND NEXT STEPS
+- Internal team meetings are expected to begin the following day, Friday, November 20, 2026.
+- StatusNeo plans a 30-45 minute orientation covering the company and onboarding process.
+- An automated Zoho email will request supporting documents.
+- Information security training and the required onboarding steps must be completed to receive StatusNeo credentials.
+- Client onboarding and configuration emails are expected to arrive at the StatusNeo email address over the weekend.
+- In-person PIMCO induction is planned for Monday, November 23, 2026. The arrival time was tentatively stated as 8:30 or 9:00 AM and needs confirmation.
+- Regular working hours should be agreed with the customer; the discussion suggested a start around 9:00-9:30 AM, but the transcript is unclear.
+- Vijay should contact the delivery lead directly if the onboarding email does not arrive or if any issues arise.
+- Vijay agreed to text his phone number to the delivery lead using the number shared during the call.
+
+COMPUTER AND ACCESS ARRANGEMENTS
+- PIMCO provides a desktop in the office and uses a virtual desktop infrastructure (VDI) environment.
+- A personal Windows laptop may be used for remote VDI access if it meets the customer's requirements.
+- If the personal laptop is unsuitable, the team will coordinate with IT, onboarding, and Sahil about obtaining a laptop. Purchasing and reimbursement were discussed as possibilities, not confirmed arrangements.
+- A later onboarding explanation stated that StatusNeo access on a personal laptop would be temporary, approximately two days, followed by a block until access and MFA are set up on a company laptop.
+- These two explanations leave the long-term device and access arrangement unresolved and requiring confirmation.
+
+ACTION CHECKLIST FOR VIJAY
+1. Text the delivery lead with your phone number.
+2. Attend the StatusNeo orientation and internal team meetings when invitations arrive.
+3. Upload the documents requested through Zoho and complete information security training.
+4. Monitor the StatusNeo inbox for client onboarding instructions over the weekend.
+5. Confirm Monday's exact arrival time, office details, and regular working hours.
+6. Confirm personal-laptop requirements, VDI setup, and whether a company laptop will be supplied.
+7. Attend the PIMCO induction in person on Monday, November 23.
+
+SOURCE NOTE
+The export includes pre-call interview preparation and AI-generated suggested answers. Those suggestions are not treated as statements made or verified during the actual call. Speaker labels and some wording appear inconsistent in the automated transcript. Dates for "tomorrow" and "Monday" are inferred from the transcript date; tentative details remain marked as unconfirmed.
